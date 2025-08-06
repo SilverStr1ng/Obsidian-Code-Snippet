@@ -223,7 +223,7 @@ Welcome to contribute code! Please follow these steps:
 ### Development Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/SilverStr1ng/Obsidian-Code-Snippet.git
+git clone git@github.com:SilverStr1ng/Obsidian-Code-Snippet.git
 
 # Install dependencies
 npm install

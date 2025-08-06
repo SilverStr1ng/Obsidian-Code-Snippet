@@ -215,7 +215,7 @@ npm run version
 ### 开发环境设置
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/obsidian-code-snippets.git
+git clone git@github.com:SilverStr1ng/Obsidian-Code-Snippet.git
 
 # 安装依赖
 npm install
